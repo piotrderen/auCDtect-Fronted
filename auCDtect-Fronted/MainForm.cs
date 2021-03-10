@@ -43,7 +43,7 @@ namespace auCDtect_Fronted
 
         private void btnExitClick(object sender, EventArgs e)
         {
-            this.Close();
+            Close();
         }
 
 
