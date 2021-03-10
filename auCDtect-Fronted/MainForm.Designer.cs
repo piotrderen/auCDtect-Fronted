@@ -183,13 +183,13 @@ namespace auCDtect_Fronted
 
         private System.Windows.Forms.ListBox lstbxFiles;		
         private System.Windows.Forms.Button btnAddFiles;
-		private System.Windows.Forms.Button btnRemoveFile;
-		private System.Windows.Forms.Button btnClearList;
-		private System.Windows.Forms.Button btnAnalizeFiles;
-		private System.Windows.Forms.Button btnHelp;
-		private System.Windows.Forms.Button btnAbout;
-		private System.Windows.Forms.Button btnExit;
-		private System.Windows.Forms.RichTextBox rtxtbxOutput;
+	private System.Windows.Forms.Button btnRemoveFile;
+	private System.Windows.Forms.Button btnClearList;
+	private System.Windows.Forms.Button btnAnalizeFiles;
+	private System.Windows.Forms.Button btnHelp;
+	private System.Windows.Forms.Button btnAbout;
+	private System.Windows.Forms.Button btnExit;
+	private System.Windows.Forms.RichTextBox rtxtbxOutput;
         private System.Windows.Forms.OpenFileDialog openFileDialog;
         private System.Windows.Forms.ToolTip toolTip;
     }
