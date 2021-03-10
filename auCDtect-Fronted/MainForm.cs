@@ -69,7 +69,7 @@ namespace auCDtect_Fronted
             }
         }
 		
-		private void lstbxFilesDragEnter(object sender, DragEventArgs e)
+	private void lstbxFilesDragEnter(object sender, DragEventArgs e)
         {
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
             {
